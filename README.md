@@ -181,21 +181,7 @@ Battery → ESC Power
 ## Repository Structure
 
 ```
-payload/
-├── pi/
-│   ├── telemetry.py
-│   ├── imu_reader.py
-│   └── lora_pi.py
-│
-├── feather/
-│   ├── motor_control.py
-│   └── lora_feather.py
-│
-├── docs/
-│   ├── wiring_diagram.png
-│   └── system_block_diagram.png
-│
-└── README.md
+TODO
 ```
 
 ---
