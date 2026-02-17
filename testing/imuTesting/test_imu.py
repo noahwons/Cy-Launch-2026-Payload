@@ -1,3 +1,9 @@
+# ======================================================================================
+# Developer: Noah Wons
+# Program: Test imu connection with raspi and output data
+# Contact: wons123@iastate.edu
+# ======================================================================================
+
 import time
 import board
 import adafruit_bno055

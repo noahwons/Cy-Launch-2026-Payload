@@ -1,3 +1,10 @@
+# ======================================================================================
+# Developer: 
+# Program: Test soil probe data collection
+# Contact: 
+# ======================================================================================
+
+
 import minimalmodbus
 import serial
 import serial.tools.list_ports

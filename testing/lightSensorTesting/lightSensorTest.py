@@ -1,3 +1,10 @@
+# ======================================================================================
+# Developer: Noah Wons
+# Program: Test light sensor data collection (NOT USED)
+# Contact: wons123@iastate.edu
+# ======================================================================================
+
+
 import time
 import board
 from adafruit_apds9960.apds9960 import APDS9960

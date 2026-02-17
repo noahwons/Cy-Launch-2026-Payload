@@ -1,3 +1,10 @@
+# ======================================================================================
+# Developer: Noah Wons
+# Program: Sample program to test motors on raspi GPIO ports
+# Contact: wons123@iastate.edu
+# ======================================================================================
+
+
 import RPi.GPIO as GPIO
 import time
 ESC1 = 18

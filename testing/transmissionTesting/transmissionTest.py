@@ -1,3 +1,10 @@
+# ======================================================================================
+# Developer: Noah Wons
+# Program: Test transmitter communication with featherwing extra m4 and raspi
+# Contact: wons123@iastate.edu
+# ======================================================================================
+
+
 import board
 import busio
 import digitalio
